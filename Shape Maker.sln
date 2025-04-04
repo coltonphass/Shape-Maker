@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Shape Maker", "Shape Maker\Shape Maker.pyproj", "{25998E09-88AD-4CFD-8AA2-37B3ECEF50D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25998E09-88AD-4CFD-8AA2-37B3ECEF50D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25998E09-88AD-4CFD-8AA2-37B3ECEF50D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20C7D89-67BB-489E-BC65-076402E270C1}
+	EndGlobalSection
+EndGlobal
